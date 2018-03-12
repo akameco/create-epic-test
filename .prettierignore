@@ -1,0 +1,6 @@
+flow-typed
+lib
+coverage
+.github
+package.json
+dest
