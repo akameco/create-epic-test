@@ -5,6 +5,7 @@
   "license": "MIT",
   "repository": "akameco/create-epic-test",
   "author": "akameco <akameco.t@gmail.com> (akameco.github.io)",
+  "main": "dest/index.js",
   "engines": {
     "node": ">=6"
   },
